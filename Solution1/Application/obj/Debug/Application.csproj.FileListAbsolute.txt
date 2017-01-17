@@ -1,0 +1,2 @@
+C:\Users\Dorra\twitter-clone\Solution1\Application\bin\Debug\Application.exe.config
+C:\Users\Dorra\Desktop\twitter-clone\Solution1\Application\bin\Debug\Application.exe.config
